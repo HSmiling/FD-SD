@@ -3,6 +3,8 @@ datasets in UP-SDCG
 
 本仓库存储论文[**UP-SDCG: A Method of Sensitive Data Classification for Collaborative Edge Computing in Financial Cloud Environment**](https://www.mdpi.com/1999-5903/16/3/102)使用的仿真数据集。
 
+文件中包括两个数据集分别用于敏感数据分级分类和敏感数据脱敏。
+
 参照银行机构数据特征，该仿真数据集涉及三大种类：员工信息、项目以及合同。实验数据概况如表 [1](#table-3-5) 所示：
 
 ### 表 1 仿真测试数据概况
